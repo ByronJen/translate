@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # translate
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# translate
+>>>>>>> 4daac097fe6b745c311cbaeb60b0de0fb3c02f91
